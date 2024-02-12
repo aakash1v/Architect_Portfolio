@@ -1,0 +1,24 @@
+.main_top{
+    border: 2px solid red ;
+    border-radius: 20px;
+    padding: 3px;
+    margin: 30px auto;
+    height: 390px;
+    width:max-content;
+    display: flex;
+    
+}
+.main_top img{
+    margin: 2px 20px;
+}
+#main_top-profile{
+    border: 2px solid black;
+    border-radius: 50%;
+}
+
+
+.H-heading{
+    text-align: center;
+    font-weight: 400;
+    
+}
